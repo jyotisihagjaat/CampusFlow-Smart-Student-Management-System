@@ -88,9 +88,7 @@ Built as a Python learning and portfolio project.
 - Smart study recommendations
 - Calendar integration
 - Mobile-friendly interface
-<<<<<<< HEAD
-=======
----
+
 
 ## 📸 CampusFlow Screenshots
 
