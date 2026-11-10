@@ -109,4 +109,4 @@ Built as a Python learning and portfolio project.
 
 ### 6. Analytics
 ![Analytics](screenshots/Analytics.png)
->>>>>>> 678264f (Add project screenshots to README)
+
