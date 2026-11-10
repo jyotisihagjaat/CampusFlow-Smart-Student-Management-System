@@ -88,3 +88,27 @@ Built as a Python learning and portfolio project.
 - Smart study recommendations
 - Calendar integration
 - Mobile-friendly interface
+<<<<<<< HEAD
+=======
+---
+
+## 📸 CampusFlow Screenshots
+
+### 1. Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### 2. Study Planner
+![Study Planner](screenshots/study-planner.png)
+
+### 3. Study Tracker
+![Study Tracker](screenshots/study-tracker.png)
+
+### 4. Expense Manager
+![Expense Manager](screenshots/Expense manager.png)
+
+### 5. Goal Tracker
+![Goal Tracker](screenshots/goal-tracker.png)
+
+### 6. Analytics
+![Analytics](screenshots/Analytics.png)
+>>>>>>> 678264f (Add project screenshots to README)
