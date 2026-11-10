@@ -1,0 +1,94 @@
+/* MAIN BACKGROUND */
+
+.stApp {
+    background: #0b1020;
+    color: #f1f5f9;
+}
+
+/* SIDEBAR */
+
+[data-testid="stSidebar"] {
+    background: #111827;
+    border-right: 1px solid #27344d;
+}
+
+/* HEADINGS */
+
+h1, h2, h3 {
+    color: #f8fafc !important;
+    font-weight: 700;
+}
+
+/* METRIC CARDS */
+
+[data-testid="stMetric"] {
+    background: linear-gradient(
+        135deg,
+        #17213b,
+        #202d4c
+    );
+    padding: 20px;
+    border-radius: 15px;
+    border: 1px solid #344563;
+}
+
+/* BUTTONS */
+
+.stButton button,
+.stFormSubmitButton button {
+    background: linear-gradient(
+        135deg,
+        #7c3aed,
+        #4f46e5
+    );
+    color: white;
+    border: none;
+    border-radius: 9px;
+    font-weight: 600;
+    padding: 8px 18px;
+}
+
+.stButton button:hover,
+.stFormSubmitButton button:hover {
+    border: 1px solid #a78bfa;
+    color: white;
+}
+
+/* INPUTS */
+
+.stTextInput input,
+.stNumberInput input,
+.stDateInput input,
+.stTextArea textarea {
+    background: #17213b;
+    color: white;
+    border-radius: 8px;
+}
+
+/* CONTAINERS */
+
+div[data-testid="stForm"] {
+    background: #111a2d;
+    border: 1px solid #293752;
+    border-radius: 14px;
+    padding: 20px;
+}
+
+/* DIVIDERS */
+
+hr {
+    border-color: #293752;
+}
+
+/* DATAFRAMES */
+
+[data-testid="stDataFrame"] {
+    border: 1px solid #293752;
+    border-radius: 12px;
+}
+
+/* SIDEBAR TEXT */
+
+[data-testid="stSidebar"] p {
+    color: #cbd5e1;
+}
