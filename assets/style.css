@@ -92,3 +92,38 @@ hr {
 [data-testid="stSidebar"] p {
     color: #cbd5e1;
 }
+/* IMPROVED METRIC VISIBILITY */
+
+[data-testid="stMetricLabel"] {
+    color: #cbd5e1 !important;
+}
+
+[data-testid="stMetricValue"] {
+    color: #ffffff !important;
+    font-weight: 800 !important;
+}
+
+/* INFO MESSAGES */
+
+[data-testid="stAlert"] {
+    background-color: #17213b !important;
+    border: 1px solid #344563 !important;
+    color: #f8fafc !important;
+}
+
+[data-testid="stAlert"] p {
+    color: #e2e8f0 !important;
+}
+
+/* GENERAL TEXT */
+
+.stApp p,
+.stApp label {
+    color: #dbeafe;
+}
+
+/* SIDEBAR RADIO OPTIONS */
+
+[data-testid="stSidebar"] label {
+    color: #e2e8f0 !important;
+}
